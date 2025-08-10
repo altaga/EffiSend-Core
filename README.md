@@ -21,7 +21,7 @@ EffiSend is built from the ground up to leverage a modern Web3 infrastructure, e
 
 ### Core Components:
 
-  - [**Core**](https://www.google.com/search?q=https://coredao.org/)
+  - [**Core**](https://coredao.org/)
     Serves as the main blockchain, powering all EffiSend transactions. Core provides unparalleled speed, low-cost transactions, and fast finality, making it the ideal foundation for a high-throughput application like EffiSend.
 
   - [**USDC**](https://www.circle.com/en/usdc)
