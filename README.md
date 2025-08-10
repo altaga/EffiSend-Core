@@ -27,7 +27,7 @@ EffiSend is built from the ground up to leverage a modern Web3 infrastructure, e
   - [**USDC**](https://www.circle.com/en/usdc)
     The primary token for **rewards and payments** within the EffiSend ecosystem. As a widely adopted stablecoin, USDC is deeply integrated into the community, driving user engagement.
 
-  - [**Langchain (AI Agent)**](https://lanchain.com/)
+  - [**Langchain (AI Agent)**](https://www.langchain.com/)
     The framework behind our AI agent, **DeSmond**. It enables natural language processing, allowing users to execute transfers, check balances, and perform other actions through simple conversation.
 
   - [**DeepFace**](https://viso.ai/computer-vision/deepface/)
